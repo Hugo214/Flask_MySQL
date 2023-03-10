@@ -1,0 +1,13 @@
+body {
+    background: #2f395a; 
+    color: #000;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
